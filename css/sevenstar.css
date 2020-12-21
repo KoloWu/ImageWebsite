@@ -16,10 +16,10 @@ div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tb
     border-bottom: 2px solid #000000 !important;
     border-right: 1px solid #000000 !important;
 }
-div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:first-child>td {
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td {
     border-right: unset;
 }
-div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:first-child td:nth-child(4n) {
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(4n) {
     border-right: 1px solid #000000 !important;
 }
 div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr td.arrow-td div.arrow-down {
