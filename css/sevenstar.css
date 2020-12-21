@@ -1,5 +1,5 @@
 div.middle table.bet {
-    width: 1600px;
+    width: 1600px !important;
     border: 1px solid #000000;
 }
 div.middle table.bet tr.middle th {
