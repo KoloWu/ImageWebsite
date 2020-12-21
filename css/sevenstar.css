@@ -67,9 +67,27 @@ div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tb
     text-align: left;
     padding-left: 10px;
 }
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(4),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(7),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(10),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(13),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(16),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(19),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(22),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(25),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(28),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(31) {
+    color: red !important;
+}
 .mgametb2 tr[id*="OddsList"] .td2 table tbody tr td:nth-child(1), .mgametb2 tr[id*="OddsList"] .td2 table tbody tr td:nth-child(2){
     width: 70px;
     text-align: left;
 }
+.mgametb2 tr[id*="OddsList"] .td2 table tbody tr td:nth-child(1), .mgametb2 tr[id*="OddsList"] .td2 table tbody tr td.io{
+    font-weight: 700;
+}
 div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr td.arrow-td div.arrow-down {
+}
+table.bottom_field,table.tb10 table.new_marquee,table.tb10 div.middle {
+    width: 1600px !important;
 }
