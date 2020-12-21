@@ -17,9 +17,18 @@ div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tb
     border-right: 1px solid #000000 !important;
 }
 div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td {
-    border-right: unset;
+    border-right: unset !important;
 }
-div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(4n) {
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(4),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(7),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(10),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(13),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(16),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(19),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(22),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(25),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(28),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(31) {
     border-right: 1px solid #000000 !important;
 }
 div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr td.arrow-td div.arrow-down {
