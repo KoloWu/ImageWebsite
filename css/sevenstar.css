@@ -12,5 +12,8 @@ div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tb
     background: #FFCC66;
     color: #000000;
 }
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre td {
+    border-bottom: 2px solid #000000;
+}
 div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr td.arrow-td div.arrow-down {
 }
