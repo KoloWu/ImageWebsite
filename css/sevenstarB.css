@@ -97,3 +97,20 @@ table.bottom_field,table.tb10 table.new_marquee,table.tb10 div.middle {
 input[name='moneyinput'].input {
     display: none;
 }
+table.iotb>tbody>tr {
+    display: inline-flex;
+    width: 100%;
+}
+table.iotb>tbody>tr td[name="numTD"] {
+    display: block;
+    width: 50%;
+    text-align: center;
+}
+table.iotb>tbody>tr td[class="io"] {
+    display: block;
+    width: 50%;
+    text-align: center;
+}
+table.iotb>tbody>tr>td:nth-child(3){
+    width: 0;
+}
