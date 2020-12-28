@@ -101,16 +101,19 @@ table.iotb>tbody>tr {
     display: inline-flex;
     width: 100%;
 }
+table.iotb>tbody>tr>td {
+    padding: 5px;
+}
 table.iotb>tbody>tr td[name="numTD"] {
-    display: block;
-    width: 50%;
-    text-align: center;
+    display: block !important;
+    width: 50% !important;
+    text-align: center !important;
 }
 table.iotb>tbody>tr td[class="io"] {
-    display: block;
-    width: 50%;
-    text-align: center;
+    display: block !important;
+    width: 50% !important;
+    text-align: center !important;
 }
 table.iotb>tbody>tr>td:nth-child(3){
-    width: 0;
+    width: 0 !important;
 }
