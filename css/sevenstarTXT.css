@@ -1,5 +1,32 @@
 form[name="order_form"],
-form[name="order_form"] table {
+form[name="order_form"] div.middle table,
+form[name="order_form"] table#betView {
     width: 1600px !important;
-    border: 1px solid #000000;
+    border-collapse: collapse;
+}
+form[name="order_form"] table.game_list thead tr th {
+    border-bottom: 1px solid;
+    background: #373b43 !important;
+    color: #ffffff;
+    font-weight: bold;
+}
+form[name="order_form"] table.game_list tbody tr th,
+form[name="order_form"] table.game_list tbody tr td {
+    border: 1px solid #b0b0b0;
+    padding: 5px;
+}
+form[name="order_form"] table.game_list {
+    border: 1px solid;
+}
+form[name="order_form"] table#betView {
+    border: unset;
+}
+form[name="order_form"] table#betView thead tr th {
+    background: #373b43 !important;
+    color: #ffffff;
+    font-weight: bold;
+}
+form[name="order_form"] table#betView tbody tr th,
+form[name="order_form"] table#betView tbody tr td {
+    border: unset;
 }
