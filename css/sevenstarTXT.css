@@ -47,6 +47,10 @@ form[name="order_form"] table tbody tr td table#betView.game_list tbody tr td {
 form[name="order_form"] table tbody tr td table#betView.game_list tbody tr:nth-child(1) {
     background: #F0F0F0;
 }
+div#todoBetAera table.game_list {
+    border: 1px solid #b0b0b0 !important;
+}
 div#todoBetAera table.game_list tbody tr td {
     background: #F0F0F0;
+    border: 1px solid #b0b0b0;
 }
