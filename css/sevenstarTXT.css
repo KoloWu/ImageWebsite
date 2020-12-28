@@ -1,0 +1,5 @@
+form[name="order_form"],
+form[name="order_form"] table {
+    width: 1600px !important;
+    border: 1px solid #000000;
+}
