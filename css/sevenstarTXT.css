@@ -1,6 +1,7 @@
 form[name="order_form"],
 form[name="order_form"] div.middle table,
-form[name="order_form"] table tbody tr td table#betView.game_list {
+form[name="order_form"] table tbody tr td table#betView.game_list,
+div#todoBetAera table.game_list {
     width: 1600px !important;
     border-collapse: collapse;
 }
@@ -15,8 +16,21 @@ form[name="order_form"] div.middle table.game_list tbody tr td {
     border: 1px solid #b0b0b0;
     padding: 5px;
 }
-form[name="order_form"] div.middle table.game_list {
-    border: 1px solid;
+form[name="order_form"] div.middle table.game_list input[type="button"]#doSubmit {
+    height: 25px;
+    background: #d34747;
+    padding: 4px 8px;
+    line-height: 13px;
+    cursor: pointer;
+    color: #fff;
+    background-color: #b92929;
+    background-repeat: repeat-x;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+    border: 1px solid #b92929;
+    border-bottom-color: #b42323;
+    border-radius: 4px;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,.2), 0 1px 2px rgba(0,0,0,.05);
+    box-shadow: 0 1px 2px #e99494 inset, 0 -1px 0 #954b4b inset, 0 -2px 3px #e99494 inset;
 }
 form[name="order_form"] table tbody tr td table#betView.game_list {
     border: unset;
@@ -28,5 +42,11 @@ form[name="order_form"] table tbody tr td table#betView.game_list thead tr th {
 }
 form[name="order_form"] table tbody tr td table#betView.game_list tbody tr th,
 form[name="order_form"] table tbody tr td table#betView.game_list tbody tr td {
-    border: unset;
+    border: 1px solid #b0b0b0;
+}
+form[name="order_form"] table tbody tr td table#betView.game_list tbody tr:nth-child(1) {
+    background: #F0F0F0;
+}
+div#todoBetAera table.game_list tbody tr td {
+    background: #F0F0F0;
 }
