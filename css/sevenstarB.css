@@ -94,3 +94,6 @@ div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tb
 table.bottom_field,table.tb10 table.new_marquee,table.tb10 div.middle {
     width: 1600px !important;
 }
+input[name='moneyinput'].input {
+    display: none;
+}
