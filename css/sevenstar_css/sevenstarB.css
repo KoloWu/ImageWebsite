@@ -80,14 +80,17 @@ div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tb
     color: red !important;
 }
 .mgametb2 tr[id*="OddsList"] .td2 table tbody tr td:nth-child(1), .mgametb2 tr[id*="OddsList"] .td2 table tbody tr td:nth-child(2){
-    width: 70px;
-    text-align: left;
+    width: 50%;
+    text-align: center;
+    color: red;
+    font-weight: bold;
 }
 .mgametb2 tr[id*="OddsList"] .td2 table tbody tr td:nth-child(1), .mgametb2 tr[id*="OddsList"] .td2 table tbody tr td.io{
     font-weight: 700;
 }
 .mgametb2 tr[id*="OddsList"] .td2 table tbody tr td:nth-child(1), .mgametb2 tr[id*="OddsList"] .td2 table tbody tr td[name="numTD"]{
     font-weight: normal;
+    color: #000000;
 }
 div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr td.arrow-td div.arrow-down {
 }
@@ -116,4 +119,5 @@ table.iotb>tbody>tr td[class="io"] {
 }
 table.iotb>tbody>tr>td:nth-child(3){
     width: 0 !important;
+    display: none;
 }
