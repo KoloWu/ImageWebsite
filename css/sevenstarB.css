@@ -1,0 +1,123 @@
+div.middle table.bet {
+    width: 1600px !important;
+    border: 1px solid #000000;
+}
+div.middle table.bet tr.middle th {
+    height: 0px !important;
+}
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:first-child td.arrow-td {
+    text-align: left !important;
+}
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td {
+    background: #FFCC66;
+    color: #000000;
+}
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre>td {
+    border-bottom: 2px solid #000000 !important;
+    border-right: 1px solid #000000 !important;
+}
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td {
+    border-right: unset !important;
+}
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(1),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(4),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(7),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(10),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(13),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(16),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(19),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(22),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(25),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(28),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(31) {
+    border-right: 1px solid #000000 !important;
+}
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(2),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(4),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(5),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(7),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(8),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(10),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(11),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(13),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(14),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(16),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(17),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(19),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(20),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(22),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(23),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(25),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(26),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(28),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(29),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(31) {
+    border-top: unset !important;
+}
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(2),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(5),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(8),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(11),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(14),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(17),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(20),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(23),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(26),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(29) {
+    text-align: center;
+    padding-left: 0;
+}
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(4),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(7),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(10),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(13),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(16),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(19),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(22),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(25),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(28),
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr.mgametre:nth-child(2) td:nth-child(31) {
+    color: red !important;
+}
+.mgametb2 tr[id*="OddsList"] .td2 table tbody tr td:nth-child(1), .mgametb2 tr[id*="OddsList"] .td2 table tbody tr td:nth-child(2){
+    width: 50%;
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+.mgametb2 tr[id*="OddsList"] .td2 table tbody tr td:nth-child(1), .mgametb2 tr[id*="OddsList"] .td2 table tbody tr td.io{
+    font-weight: 700;
+}
+.mgametb2 tr[id*="OddsList"] .td2 table tbody tr td:nth-child(1), .mgametb2 tr[id*="OddsList"] .td2 table tbody tr td[name="numTD"]{
+    font-weight: normal;
+    color: #000000;
+}
+div.middle table.bet tbody tr td table.mgametb tbody tr td#game_content table tbody tr td.arrow-td div.arrow-down {
+}
+table.bottom_field,table.tb10 table.new_marquee,table.tb10 div.middle {
+    width: 1600px !important;
+}
+input[name='moneyinput'].input {
+    display: none;
+}
+table.iotb>tbody>tr {
+    display: inline-flex;
+    width: 100%;
+}
+table.iotb>tbody>tr>td {
+    padding: 5px;
+}
+table.iotb>tbody>tr td[name="numTD"] {
+    display: block !important;
+    width: 50% !important;
+    text-align: center !important;
+}
+table.iotb>tbody>tr td[class="io"] {
+    display: block !important;
+    width: 50% !important;
+    text-align: center !important;
+}
+table.iotb>tbody>tr>td:nth-child(3){
+    width: 0 !important;
+    display: none;
+}

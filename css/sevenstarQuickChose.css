@@ -1,0 +1,17 @@
+table.new_marquee {
+    width: 1600px !important;
+}
+div.module div[name="module"] {
+    width: 100%;
+    display: flex;
+}
+div.module div[name="module"] #LeftDiv {
+    width: 40%;
+}
+div.module div[name="module"] #LeftDiv div#LeftDiv_Bg td.no-padding div#num_area {
+    width: unset;
+    height: unset;
+}
+div.module div[name="module"] .right {
+    width: 60%;
+}
