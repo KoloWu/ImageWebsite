@@ -18,6 +18,7 @@ div.module div[name="module"] .right {
 .btntype1 a {
     color: #ffffff;
     font-size: 14px;
+    text-decoration: none;
 }
 .btntype1 a:hover {
     color: #FF3300;
