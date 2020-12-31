@@ -15,3 +15,19 @@ div.module div[name="module"] #LeftDiv div#LeftDiv_Bg td.no-padding div#num_area
 div.module div[name="module"] .right {
     width: 60%;
 }
+.btntype1 {
+    height: 26px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    width: 430px;
+    background: url(../Image/QXextend.png) 0 -94px;
+    color: #fff;
+    cursor: pointer;
+}
+.btntype1 .Red {
+    color: #f8bb00;
+}
+.btntype1 a:hover {
+    text-decoration: none;
+    color: #FF3300;
+}
